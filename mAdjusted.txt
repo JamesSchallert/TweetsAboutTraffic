@@ -1,0 +1,263 @@
+{"id": 1098716851549495297, "text": "Accident, shoulder blocked in #Schenectady on I-890 EB near Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098713914903326720, "text": "Vehicle on fire. right lane blocked in #Schenectady on I-90 EB between I-88 and I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098711226799058944, "text": "Vehicle on fire in #Schenectady on I-90 EB between I-88 and I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098707495105769474, "text": "Accident cleared in #Latham on Northway NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098700883381178368, "text": "Accident, shoulder blocked in #Latham on Northway NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098683346488606726, "text": "Accident cleared in #CliftonPark on Rte 146 Both NB/SB at Riverview Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098679053928812547, "text": "Accident in #CliftonPark on Rte 146 Both NB/SB at Riverview Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098668703854534656, "text": "Accident cleared in #Watervliet on NY-7 WB at Boght Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098667294971121665, "text": "Accident cleared in #Saratoga on Rte 146 Both EB/WB between Waite Rd and Hwy 146A #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098664347935617024, "text": "Accident, right lane blocked in #Watervliet on NY-7 WB at Boght Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098649105360928769, "text": "Accident in #Saratoga on Rte 146 Both EB/WB between Waite Rd and Hwy 146A #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098646810837639168, "text": "Accident cleared in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098636735569899526, "text": "Accident. right shoulder blocked in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098605656884604929, "text": "Shame on all these media outlets that are looking for clickbait with their \u2018#JimBoeheim Involved in Tragic Crash\u2019 h\u2026 https://t.co/ksK23bCLHH", "relevant": false, "match": true}
+{"id": 1098593205514395649, "text": "Accident. right shoulder blocked in #Albany on I-787 NB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098593052669693958, "text": "Accident in #Schenectady on I-90 EB between I-890 and Exit 24 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098580808418422789, "text": "Accident-right shoulder blocked in #Albany on I-787 SB before 23rd St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098575120023592961, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB south of Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098574706452676608, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB at CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098569988108099584, "text": "Bus-pedestrian accident in #Albany on Broadway Both NB/SB at I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098568124352397313, "text": "Disabled vehicle, left lane blocked in #CliftonPark on Northway NB near CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098565663310921728, "text": "Car-pedestrian accident in #Albany on Broadway Both NB/SB at I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098564272806866946, "text": "787 sb ramp to clinton ave closed due to accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098559708988870656, "text": "Accident-right shoulder blocked in #Kinderhook on Rte 9 NB north of 9H #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098556017653268481, "text": "Accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098551819838648321, "text": "Accident-right shoulder blocked in #Schenectady on I-890 EB at EXIT 3 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098540614172459008, "text": "Accident, left lane blocked in #Albany on I-90 EB between Rte 85 and Everett Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098539259995308034, "text": "Accident-right shoulder blocked in #RoundLake on Northway SB at CR-80 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098524467737825281, "text": "Accident - left and center lanes blocked in #CliftonPark on Northway NB between CR-92 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098519421360979968, "text": "Accident-left &amp; center lanes blocked in #CliftonPark on Northway NB between CR-92 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098396468963094529, "text": "@jgalelee @adrian406400 @coachspradlin @WallStXyz @flexyourhead @Joaquimoly @bodyXpolitic @AOC @amazon You\u2019re also\u2026 https://t.co/kJQbDGS7NH", "relevant": true, "match": true}
+{"id": 1098716851549495297, "text": "Accident, shoulder blocked in #Schenectady on I-890 EB near Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098713914903326720, "text": "Vehicle on fire. right lane blocked in #Schenectady on I-90 EB between I-88 and I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098711226799058944, "text": "Vehicle on fire in #Schenectady on I-90 EB between I-88 and I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098707495105769474, "text": "Accident cleared in #Latham on Northway NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098700883381178368, "text": "Accident, shoulder blocked in #Latham on Northway NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098683346488606726, "text": "Accident cleared in #CliftonPark on Rte 146 Both NB/SB at Riverview Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098679053928812547, "text": "Accident in #CliftonPark on Rte 146 Both NB/SB at Riverview Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098668703854534656, "text": "Accident cleared in #Watervliet on NY-7 WB at Boght Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098667294971121665, "text": "Accident cleared in #Saratoga on Rte 146 Both EB/WB between Waite Rd and Hwy 146A #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098664347935617024, "text": "Accident, right lane blocked in #Watervliet on NY-7 WB at Boght Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098649105360928769, "text": "Accident in #Saratoga on Rte 146 Both EB/WB between Waite Rd and Hwy 146A #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098646810837639168, "text": "Accident cleared in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098636735569899526, "text": "Accident. right shoulder blocked in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098605656884604929, "text": "Shame on all these media outlets that are looking for clickbait with their \u2018#JimBoeheim Involved in Tragic Crash\u2019 h\u2026 https://t.co/ksK23bCLHH", "relevant": false, "match": true}
+{"id": 1098593205514395649, "text": "Accident. right shoulder blocked in #Albany on I-787 NB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098593052669693958, "text": "Accident in #Schenectady on I-90 EB between I-890 and Exit 24 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098580808418422789, "text": "Accident-right shoulder blocked in #Albany on I-787 SB before 23rd St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098575120023592961, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB south of Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098574706452676608, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB at CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098569988108099584, "text": "Bus-pedestrian accident in #Albany on Broadway Both NB/SB at I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098568124352397313, "text": "Disabled vehicle, left lane blocked in #CliftonPark on Northway NB near CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098565663310921728, "text": "Car-pedestrian accident in #Albany on Broadway Both NB/SB at I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098564272806866946, "text": "787 sb ramp to clinton ave closed due to accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098559708988870656, "text": "Accident-right shoulder blocked in #Kinderhook on Rte 9 NB north of 9H #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098556017653268481, "text": "Accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098551819838648321, "text": "Accident-right shoulder blocked in #Schenectady on I-890 EB at EXIT 3 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098540614172459008, "text": "Accident, left lane blocked in #Albany on I-90 EB between Rte 85 and Everett Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098539259995308034, "text": "Accident-right shoulder blocked in #RoundLake on Northway SB at CR-80 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098524467737825281, "text": "Accident - left and center lanes blocked in #CliftonPark on Northway NB between CR-92 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098519421360979968, "text": "Accident-left &amp; center lanes blocked in #CliftonPark on Northway NB between CR-92 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098396468963094529, "text": "@jgalelee @adrian406400 @coachspradlin @WallStXyz @flexyourhead @Joaquimoly @bodyXpolitic @AOC @amazon You\u2019re also\u2026 https://t.co/kJQbDGS7NH", "relevant": false, "match": true}
+{"id": 1098716851549495297, "text": "Accident, shoulder blocked in #Schenectady on I-890 EB near Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098713914903326720, "text": "Vehicle on fire. right lane blocked in #Schenectady on I-90 EB between I-88 and I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098711226799058944, "text": "Vehicle on fire in #Schenectady on I-90 EB between I-88 and I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098707495105769474, "text": "Accident cleared in #Latham on Northway NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098700883381178368, "text": "Accident, shoulder blocked in #Latham on Northway NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098683346488606726, "text": "Accident cleared in #CliftonPark on Rte 146 Both NB/SB at Riverview Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098679053928812547, "text": "Accident in #CliftonPark on Rte 146 Both NB/SB at Riverview Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098668703854534656, "text": "Accident cleared in #Watervliet on NY-7 WB at Boght Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098667294971121665, "text": "Accident cleared in #Saratoga on Rte 146 Both EB/WB between Waite Rd and Hwy 146A #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098664347935617024, "text": "Accident, right lane blocked in #Watervliet on NY-7 WB at Boght Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098649105360928769, "text": "Accident in #Saratoga on Rte 146 Both EB/WB between Waite Rd and Hwy 146A #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098646810837639168, "text": "Accident cleared in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098636735569899526, "text": "Accident. right shoulder blocked in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098605656884604929, "text": "Shame on all these media outlets that are looking for clickbait with their \u2018#JimBoeheim Involved in Tragic Crash\u2019 h\u2026 https://t.co/ksK23bCLHH", "relevant": false, "match": true}
+{"id": 1098593205514395649, "text": "Accident. right shoulder blocked in #Albany on I-787 NB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098593052669693958, "text": "Accident in #Schenectady on I-90 EB between I-890 and Exit 24 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098580808418422789, "text": "Accident-right shoulder blocked in #Albany on I-787 SB before 23rd St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098575120023592961, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB south of Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098574706452676608, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB at CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098569988108099584, "text": "Bus-pedestrian accident in #Albany on Broadway Both NB/SB at I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098568124352397313, "text": "Disabled vehicle, left lane blocked in #CliftonPark on Northway NB near CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098565663310921728, "text": "Car-pedestrian accident in #Albany on Broadway Both NB/SB at I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098564272806866946, "text": "787 sb ramp to clinton ave closed due to accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098559708988870656, "text": "Accident-right shoulder blocked in #Kinderhook on Rte 9 NB north of 9H #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098556017653268481, "text": "Accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098551819838648321, "text": "Accident-right shoulder blocked in #Schenectady on I-890 EB at EXIT 3 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098540614172459008, "text": "Accident, left lane blocked in #Albany on I-90 EB between Rte 85 and Everett Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098539259995308034, "text": "Accident-right shoulder blocked in #RoundLake on Northway SB at CR-80 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098524467737825281, "text": "Accident - left and center lanes blocked in #CliftonPark on Northway NB between CR-92 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098519421360979968, "text": "Accident-left &amp; center lanes blocked in #CliftonPark on Northway NB between CR-92 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098396468963094529, "text": "@jgalelee @adrian406400 @coachspradlin @WallStXyz @flexyourhead @Joaquimoly @bodyXpolitic @AOC @amazon You\u2019re also\u2026 https://t.co/kJQbDGS7NH", "relevant": false, "match": true}
+{"id": 1096422469135728641, "text": "Accident. right shoulder blocked in #CliftonPark on Northway NB at Rte 146 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096396762057768961, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB before CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096386815655886849, "text": "Disabled vehicle, right lane blocked in #Colonie on Northway NB at Central Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096384126318465025, "text": "Accident-right shoulder blocked in #Schenectady on I 88 EB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096445585480212480, "text": "Accident - left shoulder closed in #Watervliet on Alternate 7 EB at I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096520802630025217, "text": "Disabled vehicle, shoulder blocked in #Albany on Northway SB south of Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096511305542975492, "text": "Accident in #Colonie on Northway NB at Rt-155 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096510844849004546, "text": "Disabled vehicle in #EastGreenbush on I-90 EB at US-4 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096510683917832194, "text": "Disabled vehicle in #Albany on I-787 SB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096500032688324608, "text": "Accident, shoulder blocked in #Albany on I-787 SB at I-87 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096489275007344640, "text": "Disabled vehicle in #Albany on I-787 SB at I-90 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096533616904028166, "text": "Accident - right lane and shoulder blocked in #Albany on I-90 EB at I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1096806730405691394, "text": "Cutting in an out of traffic... like", "relevant": false, "match": true}
+{"id": 1096843232158404609, "text": "@jerm_byrne yo i would make sure she got into an accident at all costs. run her off the road. dumb bitch", "relevant": false, "match": true}
+{"id": 1097326766182547461, "text": "@MrDane1982 It depends on traffic. \ud83d\ude2c", "relevant": true, "match": true}
+{"id": 1097482686153789441, "text": "Accident, right lane blocked in #Troy on Rte 378 WB at I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097482406511153152, "text": "Disabled vehicle, shoulder blocked in #Latham on Northway SB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097480864504647680, "text": "Accident in #Schenectady on I-890 EB at Rt-5S #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097480713723629568, "text": "Accident in #Schenectady on I-890 EB at Broadway #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097479192038522880, "text": "Accident. left shoulder blocked in #Albany on I-90 EB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097478914245566465, "text": "Accident in #Albany on Northway Ext SB at Crossgates Mall Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097478097904037888, "text": "Accident in #Selkirk on Thruway NB between Rt-144 and I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097477514157613057, "text": "Accident. left shoulder blocked in #Albany on I-90 EB at Rte 85 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097477066633695232, "text": "Accident, shoulder blocked in #Schenectady on I-890 EB before Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097476239496040449, "text": "Accident. left shoulder blocked in #Albany on I-90 WB at Washington Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097475950646910977, "text": "Accident in #Albany on I-787 NB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097475810393509889, "text": "Accident in #Guilderland on Rte 20 Both EB/WB at Willow St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097474007841034243, "text": "Accident in #CliftonPark on Northway SB between CR-92 and the Twin Bridges #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097471424908922880, "text": "Accident in #Colonie on Northway NB at Central Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097471284433350656, "text": "Accident cleared in #Latham on Northway NB at the Twin Bridges #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097467976515837954, "text": "Accident cleared in #CliftonPark on Northway NB at CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097467558117031936, "text": "Accident, right lane blocked in #Latham on Northway NB at the Twin Bridges #traffic https://t.co/Lz3PqqCJy2", "relevant": true, "match": true}
+{"id": 1097466348165304322, "text": "Accident in #Latham on Northway SB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097460343721340929, "text": "Accident cleared in #Colonie on Northway SB at I-90 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097456414774185984, "text": "Accident on on-ramp in #Albany on I-90 WB at Rte 85 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097454683004825601, "text": "Accident, shoulder blocked in #EastGreenbush on I-90 WB between Miller Rd and US-4 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097454541342236672, "text": "Accident in #Schenectady on I 88 EB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097454265298239488, "text": "Accident. two right lanes blocked on I-90 EB at Everett Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097451027111075841, "text": "Accident, shoulder blocked in #Colonie on Northway SB at I-90 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097450753281671169, "text": "Accident. left shoulder blocked in #CliftonPark on Northway NB at CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097532917243432961, "text": "Accident. right  shoulder blocked in #Albany on I-90 WB at Washington Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097532649445474304, "text": "Accident, left lane blocked in #Albany on I-787 SB at Rt-378 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097528357196058624, "text": "Accident. right shoulder blocked in #Latham on Northway SB south of the Twin Bridges #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097521522862944259, "text": "Accident in #Albany on Berkshire Connector EB between I-87 and I-90 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097510672190050304, "text": "Accident in #Albany on S Mall Arterial WB from I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097508668319383553, "text": "Accident. right shoulder blocked in #Watervliet on Alternate 7 EB after I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097506271253721088, "text": "Accident. right shoulder blocked in #Colonie on Northway NB before Central Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097506009935958017, "text": "Accident in #Colonie on I-787 SB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097496271768686593, "text": "Accident, shoulder blocked in #Colonie on I-787 NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097495310589399041, "text": "Accident, shoulder blocked in #Albany on I-787 SB at 23rd St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097495171183374336, "text": "Accident cleared in #Albany on Northway Ext SB at Crossgates Mall Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097495034398674944, "text": "Accident, shoulder blocked in #Albany on I-787 NB at Rt-378 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097494901099511808, "text": "Accident cleared in #Albany on I-90 WB between Exit 24 and I-890, delay of 1 min #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097494756320559107, "text": "Accident cleared in #Troy on Rte 378 WB at I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097494613978464256, "text": "Accident cleared in #Schenectady on I-890 EB at Rt-5S #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097494612422377472, "text": "Accident cleared in #Schenectady on I-890 EB before Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097494467333054465, "text": "Accident cleared in #Albany on I-90 WB at Washington Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097494465810518016, "text": "Accident cleared in #Albany on I-787 NB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097494326609879040, "text": "Accident cleared in #Schenectady on I-890 EB at Broadway #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097490674054819841, "text": "Accident cleared in #Selkirk on Thruway NB between Rt-144 and I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097490532702609409, "text": "Accident, right lane blocked in #Watervliet on NY-7 WB at I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097488557726416896, "text": "Accident in #Albany on I-90 WB between Exit 24 and I-890, delay of 1 min #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097488273763491840, "text": "Accident cleared in #Guilderland on Rte 20 Both EB/WB at Willow St #traffic https://t.co/Lz3PqqCJy2", "relevant": true, "match": true}
+{"id": 1097488132059074560, "text": "Accident cleared in #Schenectady on I 88 EB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097488130771509248, "text": "Accident cleared in #Colonie on Northway NB at Central Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097487992556605442, "text": "Accident cleared in #CliftonPark on Northway SB between CR-92 and the Twin Bridges #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097487852810784769, "text": "Accident cleared in #EastGreenbush on I-90 WB between Miller Rd and US-4 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097487701413122048, "text": "Accident cleared on I-90 EB at Everett Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097485747077242884, "text": "Accident cleared in #Latham on Northway SB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097574204000620544, "text": "Accident on I-90 EB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097559392516493320, "text": "Accident cleared in #Albany on I-787 SB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097550889517236224, "text": "Accident, right lane blocked in #Albany on I-787 SB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097549013979668483, "text": "Accident in #Watervliet on Alternate 7 WB before I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097546240387092481, "text": "Accident in #Albany on I-787 SB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097625297657217030, "text": "Accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097619082566877184, "text": "Accident, shoulder blocked in #Colonie on Northway SB at Central Ave, slow traffic back to Wolf Rd, delay of 2 mins #traffic", "relevant": true, "match": true}
+{"id": 1097586790813319174, "text": "Delays in #Colonie on Northway SB between Rt-155 and I-90 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097831704172154883, "text": "Fire scene cleanup-street re-opened in #Waterford on Rte 32 Both NB/SB near Broad St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097804817253187586, "text": "Burst water main in #GreenIsland on Albany Ave Both EB/WB west of Lower Hudson Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097800788213141504, "text": "Fire dept. activity in #Waterford on Rte 32 Both NB/SB near Broad St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097879115053629440, "text": "Accident in #CliftonPark on Rte 9 Both NB/SB north of NY-146 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097858380222398464, "text": "Accident, right lane blocked in #Niskayuna on NY-7 WB between Pearse Rd and Union St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097852621489082369, "text": "Accident in #Rexford on Rte 146 Both EB/WB at Blue Barns Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097852155917189120, "text": "Accident, shoulder blocked in #Latham on Alt 7 EB at Rte 9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097851731789205505, "text": "Accident in #Rensselaer on Rte 9 Both NB/SB south of Hays Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097846778865557505, "text": "Accident-right shoulder blocked in #Watervliet on Alt 7 EB between I-787 and 6th Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097846634594086914, "text": "Accident-right shoulder closed in #Schenectady on I-890 WB between Rt-5S and Erie Blvd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097845903480754177, "text": "Accident in #Watervliet on Alt 7 EB between I-787 and 6th Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097845443579531264, "text": "Accident-left shoulder closed in #CliftonPark on Northway SB at CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097923071145590785, "text": "Accident cleared in #CliftonPark on Northway SB between Rte 146 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097912320611794944, "text": "Accident. right shoulder blocked in #CliftonPark on Northway SB between Rte 146 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097907137622233088, "text": "Vehicle fire - right two lanes blocked in #Latham on Northway SB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097899694901157888, "text": "Accident in #Guilderland on Western Ave Both EB/WB at New Karner Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097898342678441984, "text": "Vehicle fire - right shoulder blocked in #Latham on Northway SB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097884023320428544, "text": "Accident. left shoulder blocked on I-90 EB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097974207693160450, "text": "Disabled vehicle. right shoulder blocked on I-90 EB before Everett Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097963016715493382, "text": "Accident cleared in #Albany on Northway SB near Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097962733599903745, "text": "Accident cleared in #Colonie on Northway SB between Rt-155 and Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097953298563432448, "text": "Accident in road construction area in #Albany on Northway SB near Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097952855493955586, "text": "Accident.  right shoulder blocked in #CliftonPark on Northway SB at Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097946901574533120, "text": "Accident. right shoulder blocked in #Colonie on Northway SB between Rt-155 and Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097946625752948736, "text": "Accident cleared in #CliftonPark on Northway SB at Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097944823489875969, "text": "Accident, center lane blocked in #Colonie on Northway SB between Rt-155 and Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097942344597495809, "text": "Accident. right shoulder blocked in #CliftonPark on Northway SB at Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1097993946427469824, "text": "Accident, shoulder blocked in #RoundLake on Northway SB between CR-80 and Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098177264431304704, "text": "Disabled vehicle, caution in #Albany on I-90 WB at I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098233295664570368, "text": "Disabled vehicle, left lane blocked in #SchodackLanding on I-90 EB between US-9 and US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098229240963715079, "text": "Water main break - alternating lanes closed in #Slingerlands on Rte 85 Both EB/WB after Fisher Boulevard and before Kenwood Ave #traffic", "relevant": true, "match": true}
+{"id": 1098219531347132417, "text": "Accident in #Guilderland on I-890 EB before I 90 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098204584978337792, "text": "Accident, left lane blocked in #Latham on Alt 7 WB before Miller Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098204424198070272, "text": "Accident in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098204142026264576, "text": "Accident in #Schenectady on NYS Thruway WB at I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098203711514558465, "text": "Accident in #Albany on Thruway SB between I-90 Interchange W and I-787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098203690509524992, "text": "Bummin' like Obama do and in traffic wit a gun or two", "relevant": false, "match": true}
+{"id": 1098196443809099777, "text": "Accident-right shoulder blocked in #Colonie on I-787 SB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098263176976715776, "text": "Disabled vehicle in #Colonie on I-787 NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098238212542291974, "text": "Water main break - alternating one way traffic in #Slingerlands on Rte 85 Both EB/WB after Fisher Boulevard and before Kenwood Ave #traffic", "relevant": true, "match": true}
+{"id": 1098238043335680000, "text": "Accident.  right shoulder blocked in #Colonie on Northway SB between Rt-155 and Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098328299250614273, "text": "Accident cleared. delays remain in #Latham on Northway SB between Rt-7 and Rt-155 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098327606267703297, "text": "Accident cleared in #Stephentown on Hwy 43 Both EB/WB near Williams Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098319316448088066, "text": "Accident in #Stephentown on Hwy 43 Both EB/WB near Williams Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098318057011843075, "text": "Accident, left lane blocked in #Latham on Northway SB between Rt-7 and Rt-155 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098303269955346433, "text": "Accident cleared in #EastGreenbush on I-90 EB after US-4 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098296999508672513, "text": "Accident, shoulder blocked in #EastGreenbush on I-90 EB after US-4 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098296440676384773, "text": "Incident cleared in #NorthGreenbush on I-90 WB at Rt-43 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098287934757842945, "text": "Disabled vehicle, right lane blocked in #NorthGreenbush on I-90 WB at Rt-43 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098287635330678784, "text": "Incident cleared in #Colonie on I-787 NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098355457746440192, "text": "Accident in #Albany on I-90 WB between Exit 24 and I-890, delay of 1 min #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098337195113492480, "text": "Disabled vehicle, shoulder blocked in #Albany on I-787 SB at Rt-378 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098396468963094529, "text": "@jgalelee @adrian406400 @coachspradlin @WallStXyz @flexyourhead @Joaquimoly @bodyXpolitic @AOC @amazon You\u2019re also\u2026 https://t.co/kJQbDGS7NH", "relevant": false, "match": true}
+{"id": 1098524467737825281, "text": "Accident - left and center lanes blocked in #CliftonPark on Northway NB between CR-92 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098519421360979968, "text": "Accident-left &amp; center lanes blocked in #CliftonPark on Northway NB between CR-92 and Grooms Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098580808418422789, "text": "Accident-right shoulder blocked in #Albany on I-787 SB before 23rd St #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098575120023592961, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB south of Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098574706452676608, "text": "Accident-right shoulder blocked in #CliftonPark on Northway SB at CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098569988108099584, "text": "Bus-pedestrian accident in #Albany on Broadway Both NB/SB at I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098568124352397313, "text": "Disabled vehicle, left lane blocked in #CliftonPark on Northway NB near CR-92 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098565663310921728, "text": "Car-pedestrian accident in #Albany on Broadway Both NB/SB at I 787 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098564272806866946, "text": "787 sb ramp to clinton ave closed due to accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098559708988870656, "text": "Accident-right shoulder blocked in #Kinderhook on Rte 9 NB north of 9H #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098556017653268481, "text": "Accident in #Albany on I-787 SB at US-9 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098551819838648321, "text": "Accident-right shoulder blocked in #Schenectady on I-890 EB at EXIT 3 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098540614172459008, "text": "Accident, left lane blocked in #Albany on I-90 EB between Rte 85 and Everett Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098539259995308034, "text": "Accident-right shoulder blocked in #RoundLake on Northway SB at CR-80 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098605656884604929, "text": "Shame on all these media outlets that are looking for clickbait with their \u2018#JimBoeheim Involved in Tragic Crash\u2019 h\u2026 https://t.co/ksK23bCLHH", "relevant": false, "match": true}
+{"id": 1098593205514395649, "text": "Accident. right shoulder blocked in #Albany on I-787 NB at Rt-32 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098593052669693958, "text": "Accident in #Schenectady on I-90 EB between I-890 and Exit 24 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098683346488606726, "text": "Accident cleared in #CliftonPark on Rte 146 Both NB/SB at Riverview Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098679053928812547, "text": "Accident in #CliftonPark on Rte 146 Both NB/SB at Riverview Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098668703854534656, "text": "Accident cleared in #Watervliet on NY-7 WB at Boght Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098667294971121665, "text": "Accident cleared in #Saratoga on Rte 146 Both EB/WB between Waite Rd and Hwy 146A #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098664347935617024, "text": "Accident, right lane blocked in #Watervliet on NY-7 WB at Boght Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098649105360928769, "text": "Accident in #Saratoga on Rte 146 Both EB/WB between Waite Rd and Hwy 146A #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098646810837639168, "text": "Accident cleared in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098636735569899526, "text": "Accident. right shoulder blocked in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098716851549495297, "text": "Accident, shoulder blocked in #Schenectady on I-890 EB near Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098713914903326720, "text": "Vehicle on fire. right lane blocked in #Schenectady on I-90 EB between I-88 and I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098711226799058944, "text": "Vehicle on fire in #Schenectady on I-90 EB between I-88 and I-890 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098707495105769474, "text": "Accident cleared in #Latham on Northway NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098700883381178368, "text": "Accident, shoulder blocked in #Latham on Northway NB at Rt-7 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098777488405266432, "text": "There is a special place in hell for people who stop in traffic circles", "relevant": false, "match": true}
+{"id": 1098918117970006019, "text": "Disabled vehicle-right lane blocked on the exit 3 ramp in #Albany on I-787 SB at Exit 3 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098886753249882112, "text": "Closed due to road construction in #Albany on Northway SB at Wolf Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098973793228337152, "text": "Disabled vehicle. right shoulder blocked in #CliftonPark on Northway NB after Ushers Rd #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098968787947319297, "text": "Water main break - alternating lane closures in #Slingerlands on Rte 85 Both EB/WB between Fisher Boulevard and Kenwood Ave #traffic", "relevant": true, "match": true}
+{"id": 1098958696464482304, "text": "Accident. left shoulder blocked in #CliftonPark on Northway SB before the Twin Bridges #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1098958551341502465, "text": "Accident. right shoulder blocked in #CliftonPark on Northway SB before the Twin Bridges #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1099076182589489152, "text": "Accident, shoulder blocked in #Albany on Northway Ext SB after I-87 #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1099056909892681728, "text": "Incident cleared in #Slingerlands on Rte 85 Both EB/WB between Fisher Boulevard and Kenwood Ave #traffic https://t.co/Lz3PqqUkWC", "relevant": true, "match": true}
+{"id": 1099038504078790656, "text": "Traffic cone looking ass https://t.co/WQbSD70hqh", "relevant": false, "match": true}
