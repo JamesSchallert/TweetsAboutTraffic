@@ -50,10 +50,10 @@ def rest_query2(startingID,stoppingID,myApi):
 
 def main():
 ##Hopefully I never need to use these again, but please don't use them without my permission.
-    apiKey = 'H3mA8H68aVttxW8gmaOZKxg1H'
-    apiSecretKey = 'Tzot2URbTzkc6IZ2OFt4M23m0eFZPSfwfF7Y8yELAPugSm0c7t'
-    accessToken = '1098684654654275586-FmRUJcli65JrXFJfEq4H3rfeCHQhUo'
-    tokenSecret = 'd8Wmd6MDHCjFk0GuGtjmXclnqDLpoqgF0PSR2occnGYKA'
+    apiKey = 
+    apiSecretKey = 
+    accessToken = 
+    tokenSecret = 
     
     myApi = twitter.Api(apiKey, apiSecretKey, accessToken, tokenSecret)
     
